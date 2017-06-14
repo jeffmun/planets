@@ -2,3 +2,4 @@ mars notes
 #1 not many trees
 #2 ...
 #3 what day is it?
+#4 what time is it?
